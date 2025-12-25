@@ -2,7 +2,7 @@
 
 **A lightweight 2D space arcade game built with Python and pygame.**
 
-> Simple setup • Retro feel • Easy to run
+> Simple setup • Fun • Retro feel • Easy to run
 
 ---
 
@@ -20,7 +20,8 @@ The game uses local assets for graphics, audio, and fonts, and stores the high s
 - 🎵 Built-in audio and sound effects
 - 🖼️ Custom graphics and fonts
 - 💾 Persistent high score (`highscore.txt`)
-- 🧪 Beginner-friendly Python project
+- ❤️ Lives System
+- 🧪 Beginner-friendly PyGame project
 
 ---
 
@@ -96,8 +97,7 @@ space-boy/
 
 Controls are defined inside `main.py`. Typical mappings include:
 
-- **Move**: Arrow keys / WASD
-- **Shoot / Action**: Space
+- **Jump**: Space
 - **Quit**: Escape or window close
 
 (Refer to `main.py` for exact bindings.)
@@ -139,7 +139,6 @@ Contributions are welcome!
 Suggestions:
 - Improve gameplay mechanics
 - Add new enemy types
-- Add a menu or pause screen
 - Improve documentation
 
 Fork the repo, create a branch, and open a pull request.
